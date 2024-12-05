@@ -1,16 +1,7 @@
-# statefullwidgets
+# Atelier 3 : Les Widgets à Etat (Stateful Widget)
 
-A new Flutter project.
+## Objectif :
+Découvrir la séparation entre le widget et son état, ainsi que la gestion de l’état dans un widget.
+Dans cet atelier, nous allons créer un bouton icône en forme d’étoile qui peut être activé ou désactivé, tout en changeant également l’affichage d’un texte indiquant le nombre de mentions "J’aime".
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/58eb5869-734c-414f-8e05-37bb268f38fb)
